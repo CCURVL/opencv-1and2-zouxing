@@ -25,6 +25,7 @@ int main() {
 
 	HW02_ReadAndShowData(8);
 	
+	waitKey(0);
 	return 0;
 }
 
